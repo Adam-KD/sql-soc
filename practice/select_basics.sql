@@ -13,6 +13,8 @@ CREATE TABLE IF NOT EXISTS auth_events (
     timestamp  TEXT
 );
 
+DELETE FROM auth_events;
+
 INSERT INTO auth_events VALUES
 (1, '192.168.1.10', 'alice',   'SUCCESS', 1, '2024-01-15 08:01:00'),
 (2, '10.0.0.55',   'root',    'FAILED',  1, '2024-01-15 08:03:22'),

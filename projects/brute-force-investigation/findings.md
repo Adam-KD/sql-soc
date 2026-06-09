@@ -7,6 +7,7 @@
 
 **Note:** Simulated investigation based on a sample authentication log 
 from a reported incident. Conducted as part of a SOC analyst portfolio project.
+IP addresses and usernames have been anonymized for publication.
 
 ---
 

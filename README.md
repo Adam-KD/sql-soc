@@ -14,7 +14,7 @@ to identify attackers, confirm breaches, and assess lateral movement.
 - Threat intel enrichment via cross-referencing
 - Full findings report with IOCs and recommendations
 
-`project/brute-force-investigation/`
+[`Brute Force`](https://github.com/Adam-KD/sql-soc/tree/main/projects/brute-force-investigation)
 
 ### DNS Exfiltration Investigation
 Simulated investigation of DNS-based data exfiltration from a compromised
@@ -26,7 +26,7 @@ beaconing intervals, and C2 communication patterns.
 - String parsing with SUBSTR and INSTR for domain extraction
 - Full findings report with IOCs, recommendations, and detection limitations
 
-`project/dns-exfiltration/`
+[`DNS Exfiltration`](https://github.com/Adam-KD/sql-soc/tree/main/projects/dns-exfilteration)
 
 ## Skills Covered
 

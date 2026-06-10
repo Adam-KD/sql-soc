@@ -26,7 +26,7 @@ beaconing intervals, and C2 communication patterns.
 - String parsing with SUBSTR and INSTR for domain extraction
 - Full findings report with IOCs, recommendations, and detection limitations
 
-[`DNS Exfiltration`](https://github.com/Adam-KD/sql-soc/tree/main/projects/dns-exfilteration)
+[`DNS Exfiltration`](https://github.com/Adam-KD/sql-soc/tree/main/projects/dns-exfiltration)
 
 ## Skills Covered
 
